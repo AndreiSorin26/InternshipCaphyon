@@ -1,0 +1,7 @@
+C:\Andrei\Programming\C#\Internship\Internship\bin\Debug\Internship.exe.config
+C:\Andrei\Programming\C#\Internship\Internship\bin\Debug\Internship.exe
+C:\Andrei\Programming\C#\Internship\Internship\bin\Debug\Internship.pdb
+C:\Andrei\Programming\C#\Internship\Internship\obj\Debug\Internship.csprojAssemblyReference.cache
+C:\Andrei\Programming\C#\Internship\Internship\obj\Debug\Internship.csproj.CoreCompileInputs.cache
+C:\Andrei\Programming\C#\Internship\Internship\obj\Debug\Internship.exe
+C:\Andrei\Programming\C#\Internship\Internship\obj\Debug\Internship.pdb
